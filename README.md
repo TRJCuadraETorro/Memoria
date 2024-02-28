@@ -1,4 +1,4 @@
 # Memoria
 Esta es la memoria de nuestro proyecto
 
-Nuestro Proyecto para este trimestre consta de 
+El tema de nuestro proyecto es el de crear una web que sea similar a la pagina conocida por todo el mundo que es chollometro
