@@ -33,3 +33,6 @@ Para que sea fácil interactuar entre las distintas marcas.
 
 Otra cosa la cual vamos a tener en cuenta es que la base de datos, la vamos a implementar en MySQL y PHPmyadmin, ya que son gestores de bases de datos a los que estamos más acostumbrados, y nos son más sencillos de implementar, puesto que el lenguaje que vamos a usar para ello es SQL
 
+
+En cuanto a las maquinas hemos creado 2 maquinas una Ububntu server, en la cual hemos instalado y configurado diferentes servicios los cuales son: bind9 (DNS), DHCP, Docker y docker compose. Aparte de esto tambien le hemos puesto el servicio de SSH, junto a ello tambien hemos configurado un red NAT de tal manera que podamos conectar el servidor y el cliente.
+Y luego en cuanto al Ubuntu Desktop (cliente), lo unico que le hemos instalado son las Guesst Addiction, lo cual lo que hace es permitirnos que veamos la maquina en pantalla completa en lugar de verla chiquitita como es originalmente.
